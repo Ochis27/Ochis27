@@ -83,15 +83,6 @@ I build reliable web platforms and intelligent systems—from production-ready f
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
-## GitHub activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ochis27&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Paul's GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ochis27&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Paul's most used languages" />
-
-</div>
-
 ---
 
 <div align="center">
